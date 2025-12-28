@@ -1,0 +1,7 @@
+{
+  "name": "RestoFinder Pro",
+  "description": "A powerful prospecting tool to find restaurants without websites in any location, helping SEO and marketing agencies identify potential clients. Features integrated calling status tracking and lead management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
